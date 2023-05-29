@@ -66,6 +66,7 @@
 **CLI View**
 ![CLI](https://superagi.co/wp-content/uploads/2023/05/CLI.png)
 
+**GUI (Work in progress)**
 <p align="center">
   <a href="https://superagi.com//#gh-light-mode-only">
     <img src="https://superagi.com/wp-content/uploads/2023/05/Light-dashboard.png" alt="SuperAGI logo" />
