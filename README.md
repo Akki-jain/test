@@ -80,9 +80,10 @@
 - Resource Manager
 
 ## 🛠 Tools
+<pictures>
+<img src=https://superagi.com/wp-content/uploads/2023/05/Group-113609.png height=50px width=50px alt="Slack" valign="middle" title="Slack"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113612.png height=50px width=50px alt="Email"  valign="middle" title="Email"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113610.png height=50px width=50px alt="Jira" valign="middle" title="Jira"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113611.png height=50px width=50px alt="File Manager" valign="middle" title="File Manager"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113613.png height=50px width=50px alt="Google Search" valign="middle" title="Google Search"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113615.png height=50px width=50px alt="Dall-E" valign="middle" title="Dall-E"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113614.png height=50px width=50px alt="Github" valign="middle" title="Github"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113616.png height=50px width=50px alt="Web Interaction" valign="middle" title="Web Interaction"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113617.png height=50px width=50px alt="Zapier" valign="middle" title="Zapier"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113618.png height=50px width=50px alt="Instagram" valign="middle" title="Instagram"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113619.png height=50px width=50px alt="Trello" valign="middle" title="Trello"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113620.png height=50px width=50px alt="Google Analytics" valign="middle" title="Google Analytics"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113622.png height=50px width=50px alt="Duckduckgo" valign="middle" title="Duckduckgo"> <img src=https://superagi.com/wp-content/uploads/2023/05/Group-113621.png height=50px width=50px alt="Discord" valign="middle" title="Discord">
 
-<a href="https://superagi.com/"><img src=https://superagi.com/wp-content/uploads/2023/05/slack.png alt="Slack"></a> <a href="https://superagi.com/"><img src=https://superagi.com/wp-content/uploads/2023/05/email.png alt="Email"></a> <a href="https://superagi.com/"><img src=https://superagi.com/wp-content/uploads/2023/05/Jira.png alt="Jira"></a> <a href="https://superagi.com/"><img src=https://superagi.com/wp-content/uploads/2023/05/File.png alt="File Managemenr"></a>
-
+</pictures>
 ## 💻 Screenshots
 **CLI View**
 ![CLI](https://superagi.co/wp-content/uploads/2023/05/CLI.png)
@@ -134,13 +135,6 @@ This project is under active development and may still have issues. We appreciat
 [![Star History Chart](https://api.star-history.com/svg?repos=TransformerOptimus/SuperAGI&type=Date)](https://star-history.com/#TransformerOptimus/SuperAGI&Date)
 
 
-<p align="center"><a href="https://github.com/nastyox/Repo-Roster#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
+<p align="center"><a href="https://github.com/TransformerOptimus/SuperAGI#"><img src="https://superagi.com/wp-content/uploads/2023/05/backToTopButton.png" alt="Back to top" height="29"/></a></p>
 
-<details>
-<summary>
-Docker Installation
-</summary>
 
-## Getting Started
-
-</details>
