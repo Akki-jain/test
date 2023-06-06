@@ -110,7 +110,7 @@
 
 1. Download the repo using `git clone https://github.com/TransformerOptimus/SuperAGI.git` in your terminal or directly from github page in zip format.
 2. Navigate to the directory using `cd SuperAGI` and create a copy of `config_template.yaml` and name it `config.yaml`.
-3. Enter your unique OpenAI API Key, Google key, Custom search engine ID, and Pinecone API key without any quotes or spaces in `config.yaml` file. Follow the links below to get your keys:
+3. Enter your unique OpenAI API Key, Google key, Custom search engine ID without any quotes or spaces in `config.yaml` file. Follow the links below to get your keys:
 
 |Keys|Accessing the keys|
 |--|--|
