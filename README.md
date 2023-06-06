@@ -9,7 +9,7 @@
   
 </p>
 
-<p align="center"><i>Framework to build, manage and run useful Autonomous AI Agents</i></p>
+<p align="center"><i>Open-source framework to build, manage and run useful Autonomous AI Agents</i></p>
 
 <p align="center">
 <a href="https://github.com/TransformerOptimus/SuperAGI/fork" target="blank">
@@ -18,9 +18,6 @@
 
 <a href="https://github.com/TransformerOptimus/SuperAGI/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI stars"/>
-</a>
-<a href="https://github.com/TransformerOptimus/SuperAGI/issues" target="blank">
-<img src="https://img.shields.io/github/issues/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI issues"/>
 </a>
 <a href="https://github.com/TransformerOptimus/SuperAGI/pulls" target="blank">
 <img src="https://img.shields.io/github/issues-pr/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI pull-requests"/>
@@ -133,8 +130,14 @@
 ## ⚠️ Under Development!
 This project is under active development and may still have issues. We appreciate your understanding and patience. If you encounter any problems, please first check the open issues. If your issue is not listed, kindly create a new issue detailing the error or problem you experienced. Thank you for your support!
 
+## 📽 Curated Videos
 
-## 👩‍💻Contributors
+|How To Install SuperAGI on:|
+|--|
+|[Github Codespaces](https://youtu.be/iSPHZ1onQ44)|
+[Windows/MacOS/Linux](https://youtu.be/Unj5NLNTkLY)|
+
+## 👩‍💻 Contributors
 [![TransformerOptimus](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133493246?v=4&w=50&h=50&mask=circle)](https://github.com/TransformerOptimus) [![Cptsnowcrasher](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133322218?v=4&w=50&h=50&mask=circle)](https://github.com/Cptsnowcrasher) [![vectorcrow](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133646556?v=4&w=50&h=50&mask=circle)](https://github.com/vectorcrow) [![Akki-jain](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/92881074?v=4&w=50&h=50&mask=circle)](https://github.com/Akki-jain) [![Autocop-Agent](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/129729746?v=4&w=50&h=50&mask=circle)](https://github.com/Autocop-Agent)[![COLONAYUSH](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60507126?v=4&w=50&h=50&mask=circle)](https://github.com/COLONAYUSH)[![luciferlinx101](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/129729795?v=4&w=50&h=50&mask=circle)](https://github.com/luciferlinx101)[![mukundans89](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/101278493?v=4&w=50&h=50&mask=circle)](https://github.com/mukundans89)[![Fluder-Paradyne](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/121793617?v=4&w=50&h=50&mask=circle)](https://github.com/Fluder-Paradyne)[![nborthy](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/101320057?v=4&w=50&h=50&mask=circle)](https://github.com/nborthy)[![nihirr](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/122777244?v=4&w=50&h=50&mask=circle)](https://github.com/nihirr)[![Tarraann](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/97586318?v=4&w=50&h=50&mask=circle)](https://github.com/Tarraann)
 
 
