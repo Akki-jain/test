@@ -45,8 +45,6 @@
 </a>
 <a href="https://superagi.com" target="_blank"><img src="https://img.shields.io/twitter/url?label=SuperAGI Website&logo=website&style=social&url=https://github.com/TransformerOptimus/SuperAGI"/></a>
 <a href="https://www.youtube.com/@_superagi" target="_blank"><img src="https://img.shields.io/twitter/url?label=Youtube&logo=youtube&style=social&url=https://github.com/TransformerOptimus/SuperAGI"/></a>
-<a href="https://www.buymeacoffee.com/superagi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px"></a>
-
 </p>
 
 
