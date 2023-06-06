@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/github/issues-pr/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI pull-requests"/>
 </a>
 <a href='https://github.com/TransformerOptimus/SuperAGI/releases'>
-<img src='https://img.shields.io/github/release/TransformerOptimus/SuperAGI?&label=Latest Release&style=for-the-badge'>
+<img src='https://img.shields.io/github/release/TransformerOptimus/SuperAGI?&label=Latest&style=for-the-badge'>
 </a>
 
 <a href="https://github.com/TransformerOptimus/SuperAGI/commits" target="blank">
