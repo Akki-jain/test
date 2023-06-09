@@ -38,7 +38,7 @@
 <a href="https://twitter.com/_superAGI" target="blank">
 <img src="https://img.shields.io/twitter/follow/_superAGI?label=Follow: _superAGI&style=social" alt="Follow _superAGI"/>
 </a>
-<a href="https://www.youtube.com/@_superagi" target="_blank"><img src="https://img.shields.io/twitter/url?label=/r/Super_AGI&logo=reddit&style=social&url=https://github.com/TransformerOptimus/SuperAGI"/></a>
+<a href="https://www.reddit.com/r/Super_AGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=/r/Super_AGI&logo=reddit&style=social&url=https://github.com/TransformerOptimus/SuperAGI"/></a>
 
 <a href="https://discord.gg/dXbRe5BHJC" target="blank">
 <img src="https://img.shields.io/discord/1107593006032355359?label=Join%20SuperAGI&logo=discord&style=social" alt="Join SuperAGI Discord Community"/>
@@ -61,9 +61,11 @@
 </a> <a href="mailto:?subject=Check%20this%20GitHub%20repository%20out.&body=SuperAGI%20-%20Let%27s%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.%3A%0Ahttps://github.com/TransformerOptimus/SuperAGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https://github.com/TransformerOptimus/SuperAGI"/></a> <a href="https://www.buymeacoffee.com/superagi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px"></a>
 
 </p>
-
 <hr>
 
+## 📽 Demo Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gueGVJgUV6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<hr>
 ## 💡 Features
 
 - Provision, Spawn & Deploy Autonomous AI Agents
