@@ -65,7 +65,8 @@
 
 ## 📽 Demo Video
 <p>
-[Video](https://github.com/Akki-jain/test/blob/main/Superagi.mp4)
+<video src="(https://superagi.com/wp-content/uploads/2023/06/Superagi.mp4" controls="controls" style="max-width: 730px;">
+</video>
 <hr>
 ## 💡 Features
 
