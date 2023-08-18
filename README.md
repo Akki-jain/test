@@ -78,11 +78,8 @@
 
 ## 📽 Setting Up SuperAGI using Docker Hub
 
-[Demo Video](https://github.com/Akki-jain/test/assets/92881074/bb18407a-b6b2-4a9f-9419-ec73ffacd2f8)
-
-
 <p align="center">
-<a href='https://youtu.be/qjJneWjH5v4'><img src="https://superagi.com/wp-content/uploads/2023/08/DockerHub.png" width=1000px></a>
+<a href='https://youtu.be/qjJneWjH5v4'><img src="https://superagi.com/wp-content/uploads/2023/08/DockerHub_install-1.png" width=1000px></a>
 </p>
 
 
